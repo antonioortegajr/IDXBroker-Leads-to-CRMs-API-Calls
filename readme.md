@@ -3,8 +3,9 @@ READ ME
 Standard Disclaimer: This code is not official IDX Broker code. It does use their API, but in NO WAY is it supported by IDX Broker. DO NOT contact IDX Broker for any support of this code.
 This alo applies to any CRM in this repo. It does use their API, but in NO WAY is it supported by them. DO NOT contact them for any support of this code.
 
+I DO NOT recommend attempting to get and pass lead data every second or evey minute. A goal of "real time" updating is not practical nor useful in my opinion. I would suggest every 15 min.
 
-These scripts likley require you have active accounts with each service you wish pass leads to and from
+These scripts likley require you have active accounts with each service you wish pass leads to and from.
 
 You will also need the Force.com PHP tool kit for the Salesforce API call
 
