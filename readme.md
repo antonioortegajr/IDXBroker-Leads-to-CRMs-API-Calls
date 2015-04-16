@@ -11,6 +11,8 @@ You will also need the Force.com PHP tool kit for the Salesforce API call
 
 Remember that changing your password in Salesforce resets you Security Token as well
 
+Rememeber that Enterprise and Partner ahve API calls enabled by default. Group and Professional mare another story. Contact Salesforce for details on this.
+
 For more on these calls check the official docs
 
 API Docs:
