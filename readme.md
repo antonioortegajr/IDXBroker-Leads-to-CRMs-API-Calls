@@ -5,7 +5,9 @@ This alo applies to any CRM in this repo. It does use their API, but in NO WAY i
 
 I DO NOT recommend attempting to get and pass lead data every second or evey minute. A goal of "real time" updating is not practical nor useful in my opinion. I would suggest every 15 min.
 
-These scripts likley require you have active accounts with each service you wish pass leads to and from.
+These examples only pass basic lead information. Additionally information can be added. Some additional infomrmation may require further lead ID specific API calls.
+
+These scripts likley will require you have active accounts with each service you wish pass leads to and from.
 
 You will also need the Force.com PHP tool kit for the Salesforce API call
 
