@@ -17,7 +17,7 @@ $headers = array(
   'Content-Type: application/x-www-form-urlencoded', // required
   'accesskey: ' . $idx_broker_api_key, // required - replace with your own
   'outputtype: json', // optional - overrides the preferences in our API control page
-  'version: 1.1.1'// overide IDX Broker dashboard settings to ensure we use the correct API version
+  'version: 1.2.1'// overide IDX Broker dashboard settings to ensure we use the correct API version
 );
 
 // set up cURL
